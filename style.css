@@ -1,0 +1,16 @@
+img{
+    height: 400px;
+    width: 400px;
+
+}
+button{
+    font-style:italic;
+    font-weight:bolder;
+    margin-left: 48%;
+
+}
+body{
+    background:linear-gradient(190deg,rgb(255, 255, 255),rgb(252, 244, 176),rgb(241, 157, 175),#eeeeee);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
